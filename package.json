@@ -1,7 +1,7 @@
 {
-  "name": "sakura",
+  "name": "BUTECO DO ZÉ",
   "version": "7.0.0",
-  "description": "Sakura-Bot, Multi-Conexões, funcionamento mais rápido, e hospedado na heroku ou em outro servidor o seu celular funcionará sem internet.",
+  "description": "BUTECO DO ZÉ, Multi-Conexões, funcionamento mais rápido, e hospedado na heroku ou em outro servidor o seu celular funcionará sem internet.",
   "main": "index.js",
   "scripts": {
     "test": "node connect.js",
@@ -11,10 +11,10 @@
     "type": "git",
     "url": "https://github.com/Scheyot2/sakura-botv6.git"
   },
-  "author": "M.Scheyot",
+  "author": "Sr. BJORN",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Scheyot2/sakura-botv6/issues"
+    "url": "..."
   },
   "homepage": "https://github.com/Scheyot2/sakura-botv6#readme",
   "dependencies": {
